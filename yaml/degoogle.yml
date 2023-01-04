@@ -428,6 +428,11 @@ web based products:
       eyes: 5
       text: >
         Offers cookieless tracking and no PII collected.
+    - name: Insights
+      url: https://getinsights.io/
+      eyes: 5
+      text: >
+        Privacy-focused analytics for developers. Offers cookieless event tracking, pageviews, and a customizable JavaScript package.
   photos:
     - title: Photos
     - name: Photoprism
